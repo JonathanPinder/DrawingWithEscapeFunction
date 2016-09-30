@@ -1,11 +1,6 @@
 # DrawingWithEscapeFunction
 #Drawing 3-D and Animals with println function
-//////////////////////////////////////////////////////////////
-// Solution to Programming Project 1 //
-// Name: Jonathan Pinder //
-// Lab time: Thursday 10am //
-// Program description: CSC 1301 Homework //
-//////////////////////////////////////////////////////////////
+
 public class Part1 {
 public static void main(String args[]) {
  
